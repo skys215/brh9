@@ -12,7 +12,9 @@
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
-        "skys215/ruanzhu": "^1.0"
+        "skys215/laravel-ui-tabler": "^9.0",
+        "skys215/ruanzhu": "^1.0",
+        "skys215/tabler-templates": "^9.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
