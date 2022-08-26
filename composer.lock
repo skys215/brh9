@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5804e0498348ba1f9bd6da8b3c5c7609",
+    "content-hash": "29fce10484406dc56a4e934226dff3fb",
     "packages": [
         {
             "name": "brick/math",
@@ -976,6 +976,53 @@
             "time": "2022-08-25T16:40:31+00:00"
         },
         {
+            "name": "infyomlabs/laravel-generator-helpers",
+            "version": "v4.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/InfyOmLabs/laravel-generator-helpers.git",
+                "reference": "89a83f334a8cfa16bbbad2c60218c9e66536cf9a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/InfyOmLabs/laravel-generator-helpers/zipball/89a83f334a8cfa16bbbad2c60218c9e66536cf9a",
+                "reference": "89a83f334a8cfa16bbbad2c60218c9e66536cf9a",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "^9.0",
+                "php": "^8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "InfyOm\\GeneratorHelpers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mitul Golakiya",
+                    "email": "me@mitul.me"
+                }
+            ],
+            "description": "Helper functions for laravel generator packages",
+            "support": {
+                "issues": "https://github.com/InfyOmLabs/laravel-generator-helpers/issues",
+                "source": "https://github.com/InfyOmLabs/laravel-generator-helpers/tree/v4.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://opencollective.com/infyomlabs",
+                    "type": "opencollective"
+                }
+            ],
+            "time": "2022-02-22T10:02:37+00:00"
+        },
+        {
             "name": "laminas/laminas-escaper",
             "version": "2.10.0",
             "source": {
@@ -1539,6 +1586,67 @@
                 "source": "https://github.com/laravel/tinker/tree/v2.7.2"
             },
             "time": "2022-03-23T12:38:24+00:00"
+        },
+        {
+            "name": "laravel/ui",
+            "version": "v3.4.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/ui.git",
+                "reference": "65ec5c03f7fee2c8ecae785795b829a15be48c2c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/ui/zipball/65ec5c03f7fee2c8ecae785795b829a15be48c2c",
+                "reference": "65ec5c03f7fee2c8ecae785795b829a15be48c2c",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^8.42|^9.0",
+                "illuminate/filesystem": "^8.42|^9.0",
+                "illuminate/support": "^8.82|^9.0",
+                "illuminate/validation": "^8.42|^9.0",
+                "php": "^7.3|^8.0"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^6.23|^7.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.x-dev"
+                },
+                "laravel": {
+                    "providers": [
+                        "Laravel\\Ui\\UiServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Laravel\\Ui\\": "src/",
+                    "Illuminate\\Foundation\\Auth\\": "auth-backend/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Taylor Otwell",
+                    "email": "taylor@laravel.com"
+                }
+            ],
+            "description": "Laravel UI utilities and presets.",
+            "keywords": [
+                "laravel",
+                "ui"
+            ],
+            "support": {
+                "source": "https://github.com/laravel/ui/tree/v3.4.6"
+            },
+            "time": "2022-05-20T13:38:08+00:00"
         },
         {
             "name": "laravelcollective/html",
@@ -3346,6 +3454,125 @@
                 }
             ],
             "time": "2022-08-05T17:58:37+00:00"
+        },
+        {
+            "name": "skys215/laravel-ui-purecss",
+            "version": "v9.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/skys215/laravel-ui-purecss.git",
+                "reference": "a23d78fe663bcb9bc4dd5e423d4c2e20b8848e97"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/skys215/laravel-ui-purecss/zipball/a23d78fe663bcb9bc4dd5e423d4c2e20b8848e97",
+                "reference": "a23d78fe663bcb9bc4dd5e423d4c2e20b8848e97",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "^9.0",
+                "infyomlabs/laravel-generator-helpers": "^4.0",
+                "laravel/ui": "^3.0",
+                "php": "^8.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Skys215\\PureCSSPreset\\PureCSSPresetServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Skys215\\PureCSSPreset\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "skys215",
+                    "email": "skys215@gmail.com"
+                }
+            ],
+            "description": "Laravel frontend preset for PureCSS Theme",
+            "keywords": [
+                "laravel",
+                "preset",
+                "purecss"
+            ],
+            "support": {
+                "issues": "https://github.com/skys215/laravel-ui-purecss/issues",
+                "source": "https://github.com/skys215/laravel-ui-purecss/tree/v9.0.3"
+            },
+            "funding": [
+                {
+                    "url": "https://opencollective.com/infyomlabs",
+                    "type": "open_collective"
+                }
+            ],
+            "time": "2022-08-26T10:23:54+00:00"
+        },
+        {
+            "name": "skys215/purecss-templates",
+            "version": "v9.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/skys215/purecss-templates.git",
+                "reference": "2965103aa7e43ec3b2bd7c0b5cf0f0b1da5b5100"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/skys215/purecss-templates/zipball/2965103aa7e43ec3b2bd7c0b5cf0f0b1da5b5100",
+                "reference": "2965103aa7e43ec3b2bd7c0b5cf0f0b1da5b5100",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "^9.0",
+                "illuminate/view": "^9.0",
+                "php": "^8.0",
+                "skys215/laravel-ui-purecss": "^9.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "\\Skys215\\PureCSSTemplates\\PureCSSTemplatesServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Skys215\\PureCSSTemplates\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mitul Golakiya",
+                    "email": "me@mitul.me"
+                }
+            ],
+            "description": "PureCSS templates for Skys215 Laravel Generator",
+            "keywords": [
+                "bootstrap",
+                "generator",
+                "laravel",
+                "purecss",
+                "skys215",
+                "templates"
+            ],
+            "support": {
+                "issues": "https://github.com/skys215/purecss-templates/issues",
+                "source": "https://github.com/skys215/purecss-templates/tree/v9.0.1"
+            },
+            "time": "2022-08-23T15:39:10+00:00"
         },
         {
             "name": "skys215/ruanzhu",
