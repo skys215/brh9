@@ -1,1 +1,3 @@
-import './bootstrap';
+require('materialize-css');
+
+require('jquery');

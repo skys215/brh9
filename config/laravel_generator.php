@@ -105,7 +105,7 @@ return [
     |
     */
 
-    'templates' => 'adminlte-templates',
+    'templates' => 'materialize-templates',
 
     /*
     |--------------------------------------------------------------------------
