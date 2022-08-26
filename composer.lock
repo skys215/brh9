@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5804e0498348ba1f9bd6da8b3c5c7609",
+    "content-hash": "acf52fe6a2ad07a7deb40b1c1feaf985",
     "packages": [
         {
             "name": "brick/math",
@@ -976,6 +976,53 @@
             "time": "2022-08-25T16:40:31+00:00"
         },
         {
+            "name": "infyomlabs/laravel-generator-helpers",
+            "version": "v4.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/InfyOmLabs/laravel-generator-helpers.git",
+                "reference": "89a83f334a8cfa16bbbad2c60218c9e66536cf9a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/InfyOmLabs/laravel-generator-helpers/zipball/89a83f334a8cfa16bbbad2c60218c9e66536cf9a",
+                "reference": "89a83f334a8cfa16bbbad2c60218c9e66536cf9a",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "^9.0",
+                "php": "^8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "InfyOm\\GeneratorHelpers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mitul Golakiya",
+                    "email": "me@mitul.me"
+                }
+            ],
+            "description": "Helper functions for laravel generator packages",
+            "support": {
+                "issues": "https://github.com/InfyOmLabs/laravel-generator-helpers/issues",
+                "source": "https://github.com/InfyOmLabs/laravel-generator-helpers/tree/v4.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://opencollective.com/infyomlabs",
+                    "type": "opencollective"
+                }
+            ],
+            "time": "2022-02-22T10:02:37+00:00"
+        },
+        {
             "name": "laminas/laminas-escaper",
             "version": "2.10.0",
             "source": {
@@ -1539,6 +1586,67 @@
                 "source": "https://github.com/laravel/tinker/tree/v2.7.2"
             },
             "time": "2022-03-23T12:38:24+00:00"
+        },
+        {
+            "name": "laravel/ui",
+            "version": "v4.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/ui.git",
+                "reference": "e6291e8083cb5255511eacd6da0ec078210beabd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/ui/zipball/e6291e8083cb5255511eacd6da0ec078210beabd",
+                "reference": "e6291e8083cb5255511eacd6da0ec078210beabd",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^9.21",
+                "illuminate/filesystem": "^9.21",
+                "illuminate/support": "^9.21",
+                "illuminate/validation": "^9.21",
+                "php": "^8.0"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^7.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "4.x-dev"
+                },
+                "laravel": {
+                    "providers": [
+                        "Laravel\\Ui\\UiServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Laravel\\Ui\\": "src/",
+                    "Illuminate\\Foundation\\Auth\\": "auth-backend/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Taylor Otwell",
+                    "email": "taylor@laravel.com"
+                }
+            ],
+            "description": "Laravel UI utilities and presets.",
+            "keywords": [
+                "laravel",
+                "ui"
+            ],
+            "support": {
+                "source": "https://github.com/laravel/ui/tree/v4.0.0"
+            },
+            "time": "2022-07-25T10:21:27+00:00"
         },
         {
             "name": "laravelcollective/html",
@@ -3346,6 +3454,124 @@
                 }
             ],
             "time": "2022-08-05T17:58:37+00:00"
+        },
+        {
+            "name": "skys215/laravel-ui-mazer",
+            "version": "v9.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/skys215/laravel-ui-mazer.git",
+                "reference": "c43065cc24305b208f577a2d5fd8fb23cec9cfec"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/skys215/laravel-ui-mazer/zipball/c43065cc24305b208f577a2d5fd8fb23cec9cfec",
+                "reference": "c43065cc24305b208f577a2d5fd8fb23cec9cfec",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "^9.0",
+                "infyomlabs/laravel-generator-helpers": "^4.0",
+                "laravel/ui": "^4.0",
+                "php": "^8.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Skys215\\MazerPreset\\MazerPresetServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Skys215\\MazerPreset\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "skys215",
+                    "email": "skys215@gmail.com"
+                }
+            ],
+            "description": "Laravel frontend preset for Mazer Theme",
+            "keywords": [
+                "laravel",
+                "mazer",
+                "preset"
+            ],
+            "support": {
+                "issues": "https://github.com/skys215/laravel-ui-mazer/issues",
+                "source": "https://github.com/skys215/laravel-ui-mazer/tree/v9.0.3"
+            },
+            "funding": [
+                {
+                    "url": "https://opencollective.com/infyomlabs",
+                    "type": "open_collective"
+                }
+            ],
+            "time": "2022-08-26T10:23:28+00:00"
+        },
+        {
+            "name": "skys215/mazer-templates",
+            "version": "v9.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/skys215/mazer-templates.git",
+                "reference": "d3a14b7b33d7f286b8c39131dcbe3f87176a743e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/skys215/mazer-templates/zipball/d3a14b7b33d7f286b8c39131dcbe3f87176a743e",
+                "reference": "d3a14b7b33d7f286b8c39131dcbe3f87176a743e",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "^9.0",
+                "illuminate/view": "^9.0",
+                "php": "^8.0",
+                "skys215/laravel-ui-mazer": "^9.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "\\Skys215\\MazerTemplates\\MazerTemplatesServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Skys215\\MazerTemplates\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "skys215",
+                    "email": "skys215@gmail.com"
+                }
+            ],
+            "description": "Mazer templates for Skys215 Laravel Generator",
+            "keywords": [
+                "generator",
+                "laravel",
+                "mazer",
+                "skys215",
+                "templates"
+            ],
+            "support": {
+                "issues": "https://github.com/skys215/mazer-templates/issues",
+                "source": "https://github.com/skys215/mazer-templates/tree/v9.0.1"
+            },
+            "time": "2022-08-19T14:47:57+00:00"
         },
         {
             "name": "skys215/ruanzhu",
