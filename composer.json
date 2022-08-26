@@ -71,6 +71,10 @@
         {
             "type":"vcs",
             "url":"git@github.com:skys215/laravel-generator-with-dusk"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:skys215/laravel-ruanzhu"
         }
     ]
 }
