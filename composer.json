@@ -12,6 +12,7 @@
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
+        "laravel/ui": "^4.0",
         "skys215/laravel-ui-mazer": "^9.0",
         "skys215/mazer-templates": "^9.0",
         "skys215/ruanzhu": "^1.0"
