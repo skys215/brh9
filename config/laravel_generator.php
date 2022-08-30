@@ -136,9 +136,9 @@ return [
 
         'soft_delete' => false,
 
-        'save_schema_file' => true,
+        'save_schema_file' => false,
 
-        'localized' => false,
+        'localized' => true,
 
         'repository_pattern' => true,
 
@@ -152,7 +152,7 @@ return [
 
         'tests' => false, // generate test cases for your APIs
 
-        'browser_tests' => false,
+        'browser_tests' => true,
 
         'excluded_fields' => ['id'], // Array of columns that doesn't required while creating module
     ],
