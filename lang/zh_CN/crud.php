@@ -9,7 +9,6 @@ return [
     'save'         => '保存',
     'detail'       => '详情',
     'back'         => '返回',
-    'delete'       => '删除',
     'search'       => '搜索',
     'export'       => '导出',
     'print'        => '打印',

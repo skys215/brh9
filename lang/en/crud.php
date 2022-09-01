@@ -8,7 +8,6 @@ return [
     'edit'         => 'Edit',
     'save'         => 'Save',
     'detail'       => 'Detail',
-    'delete'       => 'Delete',
     'back'         => 'Back',
     'search'       => 'Search',
     'export'       => 'Export',
