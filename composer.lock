@@ -899,16 +899,16 @@
         },
         {
             "name": "infyomlabs/laravel-generator",
-            "version": "v5.3.4",
+            "version": "v5.3.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/laravel-generator-with-dusk.git",
-                "reference": "6f67401f4d5044572d096b41d8c7119f132dbc6b"
+                "reference": "fe6e028132a0656f38c8bd531db929c8cc88c154"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/laravel-generator-with-dusk/zipball/6f67401f4d5044572d096b41d8c7119f132dbc6b",
-                "reference": "6f67401f4d5044572d096b41d8c7119f132dbc6b",
+                "url": "https://api.github.com/repos/skys215/laravel-generator-with-dusk/zipball/fe6e028132a0656f38c8bd531db929c8cc88c154",
+                "reference": "fe6e028132a0656f38c8bd531db929c8cc88c154",
                 "shasum": ""
             },
             "require": {
@@ -972,7 +972,7 @@
                 "view"
             ],
             "support": {
-                "source": "https://github.com/skys215/laravel-generator-with-dusk/tree/v5.3.4",
+                "source": "https://github.com/skys215/laravel-generator-with-dusk/tree/v5.3.5",
                 "issues": "https://github.com/skys215/laravel-generator-with-dusk/issues"
             },
             "funding": [
@@ -981,7 +981,7 @@
                     "url": "https://opencollective.com/infyomlabs"
                 }
             ],
-            "time": "2022-08-30T05:02:36+00:00"
+            "time": "2022-09-01T13:02:28+00:00"
         },
         {
             "name": "infyomlabs/laravel-generator-helpers",
@@ -9010,16 +9010,16 @@
         },
         {
             "name": "spatie/laravel-ignition",
-            "version": "1.4.0",
+            "version": "1.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/laravel-ignition.git",
-                "reference": "71c627a0838f107562e89bc2b0201a81f26e9011"
+                "reference": "29deea5d9cf921590184be6956e657c4f4566440"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/laravel-ignition/zipball/71c627a0838f107562e89bc2b0201a81f26e9011",
-                "reference": "71c627a0838f107562e89bc2b0201a81f26e9011",
+                "url": "https://api.github.com/repos/spatie/laravel-ignition/zipball/29deea5d9cf921590184be6956e657c4f4566440",
+                "reference": "29deea5d9cf921590184be6956e657c4f4566440",
                 "shasum": ""
             },
             "require": {
@@ -9096,7 +9096,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-08-26T13:28:24+00:00"
+            "time": "2022-09-01T11:31:14+00:00"
         },
         {
             "name": "theseer/tokenizer",
