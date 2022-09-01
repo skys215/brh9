@@ -1,4 +1,6 @@
 {
+    "(and :count more error)": "(and :count more error)",
+    "(and :count more errors)": "(and :count more errors)",
     "All rights reserved.": "版权所有。",
     "Forbidden": "访问被拒绝",
     "Go to page :page": "前往第 :page 页",
@@ -26,6 +28,7 @@
     "The :attribute must contain at least one symbol.": ":Attribute 至少包含一个符号。",
     "The :attribute must contain at least one uppercase and one lowercase letter.": ":Attribute 至少包含一个大写字母和一个小写字母。",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "给定的 :attribute 出现在数据泄漏中。请选择不同的 :attribute。",
+    "The given data was invalid.": "给定的数据无效。",
     "This password reset link will expire in :count minutes.": "这个重设密码链接将会在 :count 分钟后失效。",
     "to": "至",
     "Toggle navigation": "切换导航",
