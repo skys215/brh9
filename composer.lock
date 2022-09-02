@@ -2167,16 +2167,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.62.0",
+            "version": "2.62.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "7507aec3d626797ce2123cf6c6556683be22b5f8"
+                "reference": "01bc4cdefe98ef58d1f9cb31bdbbddddf2a88f7a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/7507aec3d626797ce2123cf6c6556683be22b5f8",
-                "reference": "7507aec3d626797ce2123cf6c6556683be22b5f8",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/01bc4cdefe98ef58d1f9cb31bdbbddddf2a88f7a",
+                "reference": "01bc4cdefe98ef58d1f9cb31bdbbddddf2a88f7a",
                 "shasum": ""
             },
             "require": {
@@ -2265,7 +2265,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-08-28T19:48:05+00:00"
+            "time": "2022-09-02T07:48:13+00:00"
         },
         {
             "name": "nette/schema",
@@ -3466,16 +3466,16 @@
         },
         {
             "name": "skys215/laravel-ui-materialize",
-            "version": "v9.0.4",
+            "version": "v9.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/laravel-ui-materialize.git",
-                "reference": "28adc1144948561a1c2c9c34f3336953a9b1700f"
+                "reference": "f612f59039a71c0f6d485685ec6a3a711be45785"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/laravel-ui-materialize/zipball/28adc1144948561a1c2c9c34f3336953a9b1700f",
-                "reference": "28adc1144948561a1c2c9c34f3336953a9b1700f",
+                "url": "https://api.github.com/repos/skys215/laravel-ui-materialize/zipball/f612f59039a71c0f6d485685ec6a3a711be45785",
+                "reference": "f612f59039a71c0f6d485685ec6a3a711be45785",
                 "shasum": ""
             },
             "require": {
@@ -3515,7 +3515,7 @@
             ],
             "support": {
                 "issues": "https://github.com/skys215/laravel-ui-materialize/issues",
-                "source": "https://github.com/skys215/laravel-ui-materialize/tree/v9.0.4"
+                "source": "https://github.com/skys215/laravel-ui-materialize/tree/v9.0.5"
             },
             "funding": [
                 {
@@ -3523,20 +3523,20 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2022-08-29T12:05:53+00:00"
+            "time": "2022-09-02T08:22:39+00:00"
         },
         {
             "name": "skys215/materialize-templates",
-            "version": "v9.0.2",
+            "version": "v9.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/materialize-templates.git",
-                "reference": "1902bde5294f3d92f9f9e9955625b58e71e9fe44"
+                "reference": "ac4999127a207bb9c55c09a2bbe3c47c0364f0f9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/materialize-templates/zipball/1902bde5294f3d92f9f9e9955625b58e71e9fe44",
-                "reference": "1902bde5294f3d92f9f9e9955625b58e71e9fe44",
+                "url": "https://api.github.com/repos/skys215/materialize-templates/zipball/ac4999127a207bb9c55c09a2bbe3c47c0364f0f9",
+                "reference": "ac4999127a207bb9c55c09a2bbe3c47c0364f0f9",
                 "shasum": ""
             },
             "require": {
@@ -3579,7 +3579,7 @@
             ],
             "support": {
                 "issues": "https://github.com/skys215/materialize-templates/issues",
-                "source": "https://github.com/skys215/materialize-templates/tree/v9.0.2"
+                "source": "https://github.com/skys215/materialize-templates/tree/v9.0.3"
             },
             "funding": [
                 {
@@ -3587,7 +3587,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2022-08-31T04:48:03+00:00"
+            "time": "2022-09-02T06:44:23+00:00"
         },
         {
             "name": "skys215/ruanzhu",
