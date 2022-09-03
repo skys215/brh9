@@ -2167,16 +2167,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.62.0",
+            "version": "2.62.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "7507aec3d626797ce2123cf6c6556683be22b5f8"
+                "reference": "01bc4cdefe98ef58d1f9cb31bdbbddddf2a88f7a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/7507aec3d626797ce2123cf6c6556683be22b5f8",
-                "reference": "7507aec3d626797ce2123cf6c6556683be22b5f8",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/01bc4cdefe98ef58d1f9cb31bdbbddddf2a88f7a",
+                "reference": "01bc4cdefe98ef58d1f9cb31bdbbddddf2a88f7a",
                 "shasum": ""
             },
             "require": {
@@ -2265,7 +2265,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-08-28T19:48:05+00:00"
+            "time": "2022-09-02T07:48:13+00:00"
         },
         {
             "name": "nette/schema",
@@ -3466,16 +3466,16 @@
         },
         {
             "name": "skys215/laravel-ui-mazer",
-            "version": "v9.0.3",
+            "version": "v9.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/laravel-ui-mazer.git",
-                "reference": "c43065cc24305b208f577a2d5fd8fb23cec9cfec"
+                "reference": "cd51f7ba8dab368deb302a3369db81380e34d9d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/laravel-ui-mazer/zipball/c43065cc24305b208f577a2d5fd8fb23cec9cfec",
-                "reference": "c43065cc24305b208f577a2d5fd8fb23cec9cfec",
+                "url": "https://api.github.com/repos/skys215/laravel-ui-mazer/zipball/cd51f7ba8dab368deb302a3369db81380e34d9d7",
+                "reference": "cd51f7ba8dab368deb302a3369db81380e34d9d7",
                 "shasum": ""
             },
             "require": {
@@ -3515,7 +3515,7 @@
             ],
             "support": {
                 "issues": "https://github.com/skys215/laravel-ui-mazer/issues",
-                "source": "https://github.com/skys215/laravel-ui-mazer/tree/v9.0.3"
+                "source": "https://github.com/skys215/laravel-ui-mazer/tree/v9.0.5"
             },
             "funding": [
                 {
@@ -3523,7 +3523,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2022-08-26T10:23:28+00:00"
+            "time": "2022-09-03T07:09:21+00:00"
         },
         {
             "name": "skys215/mazer-templates",
@@ -6795,16 +6795,16 @@
         },
         {
             "name": "laravel-lang/lang",
-            "version": "11.0.18",
+            "version": "11.0.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Laravel-Lang/lang.git",
-                "reference": "156eafd305af6ee9b2e90aaf1a6c4a35894a41ce"
+                "reference": "3a117d10e52534eeca179915d145b83825300945"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Laravel-Lang/lang/zipball/156eafd305af6ee9b2e90aaf1a6c4a35894a41ce",
-                "reference": "156eafd305af6ee9b2e90aaf1a6c4a35894a41ce",
+                "url": "https://api.github.com/repos/Laravel-Lang/lang/zipball/3a117d10e52534eeca179915d145b83825300945",
+                "reference": "3a117d10e52534eeca179915d145b83825300945",
                 "shasum": ""
             },
             "require": {
@@ -6866,20 +6866,20 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2022-08-29T14:44:38+00:00"
+            "time": "2022-08-31T15:53:51+00:00"
         },
         {
             "name": "laravel-lang/publisher",
-            "version": "v14.3.0",
+            "version": "v14.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Laravel-Lang/publisher.git",
-                "reference": "3f18ad36711da81dd719cd615215c9ecaf0a638b"
+                "reference": "4064ddf6abd1f87d8d18dcbd348c201fb23036bd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Laravel-Lang/publisher/zipball/3f18ad36711da81dd719cd615215c9ecaf0a638b",
-                "reference": "3f18ad36711da81dd719cd615215c9ecaf0a638b",
+                "url": "https://api.github.com/repos/Laravel-Lang/publisher/zipball/4064ddf6abd1f87d8d18dcbd348c201fb23036bd",
+                "reference": "4064ddf6abd1f87d8d18dcbd348c201fb23036bd",
                 "shasum": ""
             },
             "require": {
@@ -6928,7 +6928,11 @@
             "authors": [
                 {
                     "name": "Andrey Helldar",
-                    "email": "helldar@ai-rus.com"
+                    "email": "helldar@dragon-code.pro"
+                },
+                {
+                    "name": "Laravel-Lang Team",
+                    "homepage": "https://github.com/Laravel-Lang"
                 }
             ],
             "description": "Publisher lang files for the Laravel and Lumen Frameworks, Jetstream, Fortify, Cashier, Spark and Nova from Laravel-Lang/lang",
@@ -6964,7 +6968,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2022-08-18T11:25:54+00:00"
+            "time": "2022-09-02T13:03:39+00:00"
         },
         {
             "name": "laravel/pint",
