@@ -144,13 +144,13 @@ return [
 
         'resources' => false,
 
-        'factory' => false,
+        'factory' => true,
 
-        'seeder' => false,
+        'seeder' => true,
 
         'swagger' => false, // generate swagger for your APIs
 
-        'tests' => false, // generate test cases for your APIs
+        'tests' => true, // generate test cases for your APIs
 
         'browser_tests' => true,
 
