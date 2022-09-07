@@ -899,16 +899,16 @@
         },
         {
             "name": "infyomlabs/laravel-generator",
-            "version": "v5.3.5",
+            "version": "v5.3.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/laravel-generator-with-dusk.git",
-                "reference": "fe6e028132a0656f38c8bd531db929c8cc88c154"
+                "reference": "aeaa740bb07e8272e52a335ee474da39999c9edd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/laravel-generator-with-dusk/zipball/fe6e028132a0656f38c8bd531db929c8cc88c154",
-                "reference": "fe6e028132a0656f38c8bd531db929c8cc88c154",
+                "url": "https://api.github.com/repos/skys215/laravel-generator-with-dusk/zipball/aeaa740bb07e8272e52a335ee474da39999c9edd",
+                "reference": "aeaa740bb07e8272e52a335ee474da39999c9edd",
                 "shasum": ""
             },
             "require": {
@@ -972,7 +972,7 @@
                 "view"
             ],
             "support": {
-                "source": "https://github.com/skys215/laravel-generator-with-dusk/tree/v5.3.5",
+                "source": "https://github.com/skys215/laravel-generator-with-dusk/tree/v5.3.6",
                 "issues": "https://github.com/skys215/laravel-generator-with-dusk/issues"
             },
             "funding": [
@@ -981,7 +981,7 @@
                     "url": "https://opencollective.com/infyomlabs"
                 }
             ],
-            "time": "2022-09-01T13:02:28+00:00"
+            "time": "2022-09-07T02:55:03+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
@@ -1105,16 +1105,16 @@
         },
         {
             "name": "laravel/dusk",
-            "version": "v7.0.0",
+            "version": "v7.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/dusk.git",
-                "reference": "5c8469f43c2b0f0acf63198be8f74fb0641cc920"
+                "reference": "7b4e00c7750c65c9ae9206356c9c139223ea221c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/dusk/zipball/5c8469f43c2b0f0acf63198be8f74fb0641cc920",
-                "reference": "5c8469f43c2b0f0acf63198be8f74fb0641cc920",
+                "url": "https://api.github.com/repos/laravel/dusk/zipball/7b4e00c7750c65c9ae9206356c9c139223ea221c",
+                "reference": "7b4e00c7750c65c9ae9206356c9c139223ea221c",
                 "shasum": ""
             },
             "require": {
@@ -1172,9 +1172,9 @@
             ],
             "support": {
                 "issues": "https://github.com/laravel/dusk/issues",
-                "source": "https://github.com/laravel/dusk/tree/v7.0.0"
+                "source": "https://github.com/laravel/dusk/tree/v7.0.1"
             },
-            "time": "2022-08-19T14:33:56+00:00"
+            "time": "2022-09-02T14:42:03+00:00"
         },
         {
             "name": "laravel/framework",
@@ -2120,16 +2120,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.62.0",
+            "version": "2.62.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "7507aec3d626797ce2123cf6c6556683be22b5f8"
+                "reference": "01bc4cdefe98ef58d1f9cb31bdbbddddf2a88f7a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/7507aec3d626797ce2123cf6c6556683be22b5f8",
-                "reference": "7507aec3d626797ce2123cf6c6556683be22b5f8",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/01bc4cdefe98ef58d1f9cb31bdbbddddf2a88f7a",
+                "reference": "01bc4cdefe98ef58d1f9cb31bdbbddddf2a88f7a",
                 "shasum": ""
             },
             "require": {
@@ -2218,7 +2218,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-08-28T19:48:05+00:00"
+            "time": "2022-09-02T07:48:13+00:00"
         },
         {
             "name": "nette/schema",
@@ -2369,16 +2369,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v4.14.0",
+            "version": "v4.15.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "34bea19b6e03d8153165d8f30bba4c3be86184c1"
+                "reference": "0ef6c55a3f47f89d7a374e6f835197a0b5fcf900"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/34bea19b6e03d8153165d8f30bba4c3be86184c1",
-                "reference": "34bea19b6e03d8153165d8f30bba4c3be86184c1",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/0ef6c55a3f47f89d7a374e6f835197a0b5fcf900",
+                "reference": "0ef6c55a3f47f89d7a374e6f835197a0b5fcf900",
                 "shasum": ""
             },
             "require": {
@@ -2419,9 +2419,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
-                "source": "https://github.com/nikic/PHP-Parser/tree/v4.14.0"
+                "source": "https://github.com/nikic/PHP-Parser/tree/v4.15.1"
             },
-            "time": "2022-05-31T20:59:12+00:00"
+            "time": "2022-09-04T07:30:47+00:00"
         },
         {
             "name": "nunomaduro/termwind",
@@ -6630,16 +6630,16 @@
         },
         {
             "name": "laravel-lang/lang",
-            "version": "11.0.18",
+            "version": "11.0.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Laravel-Lang/lang.git",
-                "reference": "156eafd305af6ee9b2e90aaf1a6c4a35894a41ce"
+                "reference": "3a117d10e52534eeca179915d145b83825300945"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Laravel-Lang/lang/zipball/156eafd305af6ee9b2e90aaf1a6c4a35894a41ce",
-                "reference": "156eafd305af6ee9b2e90aaf1a6c4a35894a41ce",
+                "url": "https://api.github.com/repos/Laravel-Lang/lang/zipball/3a117d10e52534eeca179915d145b83825300945",
+                "reference": "3a117d10e52534eeca179915d145b83825300945",
                 "shasum": ""
             },
             "require": {
@@ -6701,20 +6701,20 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2022-08-29T14:44:38+00:00"
+            "time": "2022-08-31T15:53:51+00:00"
         },
         {
             "name": "laravel-lang/publisher",
-            "version": "v14.3.0",
+            "version": "v14.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Laravel-Lang/publisher.git",
-                "reference": "3f18ad36711da81dd719cd615215c9ecaf0a638b"
+                "reference": "4064ddf6abd1f87d8d18dcbd348c201fb23036bd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Laravel-Lang/publisher/zipball/3f18ad36711da81dd719cd615215c9ecaf0a638b",
-                "reference": "3f18ad36711da81dd719cd615215c9ecaf0a638b",
+                "url": "https://api.github.com/repos/Laravel-Lang/publisher/zipball/4064ddf6abd1f87d8d18dcbd348c201fb23036bd",
+                "reference": "4064ddf6abd1f87d8d18dcbd348c201fb23036bd",
                 "shasum": ""
             },
             "require": {
@@ -6763,7 +6763,11 @@
             "authors": [
                 {
                     "name": "Andrey Helldar",
-                    "email": "helldar@ai-rus.com"
+                    "email": "helldar@dragon-code.pro"
+                },
+                {
+                    "name": "Laravel-Lang Team",
+                    "homepage": "https://github.com/Laravel-Lang"
                 }
             ],
             "description": "Publisher lang files for the Laravel and Lumen Frameworks, Jetstream, Fortify, Cashier, Spark and Nova from Laravel-Lang/lang",
@@ -6799,7 +6803,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2022-08-18T11:25:54+00:00"
+            "time": "2022-09-02T13:03:39+00:00"
         },
         {
             "name": "laravel/pint",
