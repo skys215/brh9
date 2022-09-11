@@ -105,7 +105,7 @@ return [
     |
     */
 
-    'templates' => 'adminlte-templates',
+    'templates' => 'mazer-templates',
 
     /*
     |--------------------------------------------------------------------------
