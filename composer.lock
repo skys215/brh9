@@ -3467,16 +3467,16 @@
         },
         {
             "name": "skys215/laravel-ui-tabler",
-            "version": "v9.0.4",
+            "version": "v9.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/laravel-ui-tabler.git",
-                "reference": "38599e3e5fc1e7457b411d9d65d03a8953a599f2"
+                "reference": "fbf37e79f47fbe95400b6c8b7b27a1674d9d7e32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/laravel-ui-tabler/zipball/38599e3e5fc1e7457b411d9d65d03a8953a599f2",
-                "reference": "38599e3e5fc1e7457b411d9d65d03a8953a599f2",
+                "url": "https://api.github.com/repos/skys215/laravel-ui-tabler/zipball/fbf37e79f47fbe95400b6c8b7b27a1674d9d7e32",
+                "reference": "fbf37e79f47fbe95400b6c8b7b27a1674d9d7e32",
                 "shasum": ""
             },
             "require": {
@@ -3516,7 +3516,7 @@
             ],
             "support": {
                 "issues": "https://github.com/skys215/laravel-ui-tabler/issues",
-                "source": "https://github.com/skys215/laravel-ui-tabler/tree/v9.0.4"
+                "source": "https://github.com/skys215/laravel-ui-tabler/tree/v9.0.5"
             },
             "funding": [
                 {
@@ -3524,7 +3524,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2022-09-02T10:54:44+00:00"
+            "time": "2022-09-12T04:20:15+00:00"
         },
         {
             "name": "skys215/ruanzhu",
