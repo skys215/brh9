@@ -3591,16 +3591,16 @@
         },
         {
             "name": "skys215/ruanzhu",
-            "version": "v1.0.3",
+            "version": "v1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/laravel-ruanzhu.git",
-                "reference": "faf2b44507da04978c19b699461e376e0d7cdb6e"
+                "reference": "344c554fa62d7b2f55f179800cb0023788e312e1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/laravel-ruanzhu/zipball/faf2b44507da04978c19b699461e376e0d7cdb6e",
-                "reference": "faf2b44507da04978c19b699461e376e0d7cdb6e",
+                "url": "https://api.github.com/repos/skys215/laravel-ruanzhu/zipball/344c554fa62d7b2f55f179800cb0023788e312e1",
+                "reference": "344c554fa62d7b2f55f179800cb0023788e312e1",
                 "shasum": ""
             },
             "require": {
@@ -3630,10 +3630,10 @@
             ],
             "description": "Ruanzhu generator for Laravel project.",
             "support": {
-                "source": "https://github.com/skys215/laravel-ruanzhu/tree/v1.0.3",
+                "source": "https://github.com/skys215/laravel-ruanzhu/tree/v1.0.4",
                 "issues": "https://github.com/skys215/laravel-ruanzhu/issues"
             },
-            "time": "2022-09-11T05:15:20+00:00"
+            "time": "2022-09-14T14:19:35+00:00"
         },
         {
             "name": "symfony/console",
@@ -8019,16 +8019,16 @@
         },
         {
             "name": "sebastian/comparator",
-            "version": "4.0.7",
+            "version": "4.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/comparator.git",
-                "reference": "7fa545db548c90bdebeb9da0583001a252be5578"
+                "reference": "fa0f136dd2334583309d32b62544682ee972b51a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/7fa545db548c90bdebeb9da0583001a252be5578",
-                "reference": "7fa545db548c90bdebeb9da0583001a252be5578",
+                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/fa0f136dd2334583309d32b62544682ee972b51a",
+                "reference": "fa0f136dd2334583309d32b62544682ee972b51a",
                 "shasum": ""
             },
             "require": {
@@ -8081,7 +8081,7 @@
             ],
             "support": {
                 "issues": "https://github.com/sebastianbergmann/comparator/issues",
-                "source": "https://github.com/sebastianbergmann/comparator/tree/4.0.7"
+                "source": "https://github.com/sebastianbergmann/comparator/tree/4.0.8"
             },
             "funding": [
                 {
@@ -8089,7 +8089,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-09-14T06:33:43+00:00"
+            "time": "2022-09-14T12:41:17+00:00"
         },
         {
             "name": "sebastian/complexity",
