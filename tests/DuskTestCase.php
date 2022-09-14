@@ -84,7 +84,7 @@ abstract class DuskTestCase extends BaseTestCase
             if ($prefix) {
                 $prefix .= '-';
             }
-            $name = trim((new \ReflectionClass($this))->getShortName(), 'Test').'-'.$suffix;
+            $name = str_replace('Test', '', (new \ReflectionClass($this))->getShortName()).'-'.$suffix;
 
             $browser->screenshot($prefix.$name);
         });
