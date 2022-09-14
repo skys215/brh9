@@ -3533,16 +3533,16 @@
         },
         {
             "name": "skys215/mazer-templates",
-            "version": "v9.0.2",
+            "version": "v9.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/mazer-templates.git",
-                "reference": "3a6da77e1596836804ea75ebe5af1138ad526f93"
+                "reference": "380fd982ed287523995dc2f4e159c81435f3f6d2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/mazer-templates/zipball/3a6da77e1596836804ea75ebe5af1138ad526f93",
-                "reference": "3a6da77e1596836804ea75ebe5af1138ad526f93",
+                "url": "https://api.github.com/repos/skys215/mazer-templates/zipball/380fd982ed287523995dc2f4e159c81435f3f6d2",
+                "reference": "380fd982ed287523995dc2f4e159c81435f3f6d2",
                 "shasum": ""
             },
             "require": {
@@ -3584,9 +3584,9 @@
             ],
             "support": {
                 "issues": "https://github.com/skys215/mazer-templates/issues",
-                "source": "https://github.com/skys215/mazer-templates/tree/v9.0.2"
+                "source": "https://github.com/skys215/mazer-templates/tree/v9.0.3"
             },
-            "time": "2022-08-30T14:50:34+00:00"
+            "time": "2022-09-01T09:57:22+00:00"
         },
         {
             "name": "skys215/ruanzhu",
@@ -8018,16 +8018,16 @@
         },
         {
             "name": "sebastian/comparator",
-            "version": "4.0.7",
+            "version": "4.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/comparator.git",
-                "reference": "7fa545db548c90bdebeb9da0583001a252be5578"
+                "reference": "fa0f136dd2334583309d32b62544682ee972b51a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/7fa545db548c90bdebeb9da0583001a252be5578",
-                "reference": "7fa545db548c90bdebeb9da0583001a252be5578",
+                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/fa0f136dd2334583309d32b62544682ee972b51a",
+                "reference": "fa0f136dd2334583309d32b62544682ee972b51a",
                 "shasum": ""
             },
             "require": {
@@ -8080,7 +8080,7 @@
             ],
             "support": {
                 "issues": "https://github.com/sebastianbergmann/comparator/issues",
-                "source": "https://github.com/sebastianbergmann/comparator/tree/4.0.7"
+                "source": "https://github.com/sebastianbergmann/comparator/tree/4.0.8"
             },
             "funding": [
                 {
@@ -8088,7 +8088,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-09-14T06:33:43+00:00"
+            "time": "2022-09-14T12:41:17+00:00"
         },
         {
             "name": "sebastian/complexity",
