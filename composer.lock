@@ -3590,16 +3590,16 @@
         },
         {
             "name": "skys215/ruanzhu",
-            "version": "v1.0.4",
+            "version": "v1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/laravel-ruanzhu.git",
-                "reference": "344c554fa62d7b2f55f179800cb0023788e312e1"
+                "reference": "a711a9d0527651a63252517523390418c005bc74"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/laravel-ruanzhu/zipball/344c554fa62d7b2f55f179800cb0023788e312e1",
-                "reference": "344c554fa62d7b2f55f179800cb0023788e312e1",
+                "url": "https://api.github.com/repos/skys215/laravel-ruanzhu/zipball/a711a9d0527651a63252517523390418c005bc74",
+                "reference": "a711a9d0527651a63252517523390418c005bc74",
                 "shasum": ""
             },
             "require": {
@@ -3629,10 +3629,10 @@
             ],
             "description": "Ruanzhu generator for Laravel project.",
             "support": {
-                "source": "https://github.com/skys215/laravel-ruanzhu/tree/v1.0.4",
+                "source": "https://github.com/skys215/laravel-ruanzhu/tree/v1.0.5",
                 "issues": "https://github.com/skys215/laravel-ruanzhu/issues"
             },
-            "time": "2022-09-14T14:19:35+00:00"
+            "time": "2022-09-14T16:04:14+00:00"
         },
         {
             "name": "symfony/console",
