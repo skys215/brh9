@@ -899,16 +899,16 @@
         },
         {
             "name": "infyomlabs/laravel-generator",
-            "version": "v5.3.9",
+            "version": "v5.3.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/laravel-generator-with-dusk.git",
-                "reference": "d474fc3b80174f6c3eb12c1d636558b272cb2200"
+                "reference": "338fdb05181e4071e75a138d2341d76a38bfb48c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/laravel-generator-with-dusk/zipball/d474fc3b80174f6c3eb12c1d636558b272cb2200",
-                "reference": "d474fc3b80174f6c3eb12c1d636558b272cb2200",
+                "url": "https://api.github.com/repos/skys215/laravel-generator-with-dusk/zipball/338fdb05181e4071e75a138d2341d76a38bfb48c",
+                "reference": "338fdb05181e4071e75a138d2341d76a38bfb48c",
                 "shasum": ""
             },
             "require": {
@@ -972,7 +972,7 @@
                 "view"
             ],
             "support": {
-                "source": "https://github.com/skys215/laravel-generator-with-dusk/tree/v5.3.9",
+                "source": "https://github.com/skys215/laravel-generator-with-dusk/tree/v5.3.10",
                 "issues": "https://github.com/skys215/laravel-generator-with-dusk/issues"
             },
             "funding": [
@@ -981,7 +981,7 @@
                     "url": "https://opencollective.com/infyomlabs"
                 }
             ],
-            "time": "2022-09-15T09:03:29+00:00"
+            "time": "2022-09-15T11:20:02+00:00"
         },
         {
             "name": "infyomlabs/laravel-generator-helpers",
