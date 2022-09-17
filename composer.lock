@@ -899,16 +899,16 @@
         },
         {
             "name": "infyomlabs/laravel-generator",
-            "version": "v5.3.11",
+            "version": "v5.3.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/laravel-generator-with-dusk.git",
-                "reference": "1918b42eb7c75be58ca6a67fc2797a4d87308240"
+                "reference": "98057735eb35f19ed7f429bb8758d9b539ce347d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/laravel-generator-with-dusk/zipball/1918b42eb7c75be58ca6a67fc2797a4d87308240",
-                "reference": "1918b42eb7c75be58ca6a67fc2797a4d87308240",
+                "url": "https://api.github.com/repos/skys215/laravel-generator-with-dusk/zipball/98057735eb35f19ed7f429bb8758d9b539ce347d",
+                "reference": "98057735eb35f19ed7f429bb8758d9b539ce347d",
                 "shasum": ""
             },
             "require": {
@@ -972,7 +972,7 @@
                 "view"
             ],
             "support": {
-                "source": "https://github.com/skys215/laravel-generator-with-dusk/tree/v5.3.11",
+                "source": "https://github.com/skys215/laravel-generator-with-dusk/tree/v5.3.12",
                 "issues": "https://github.com/skys215/laravel-generator-with-dusk/issues"
             },
             "funding": [
@@ -981,7 +981,7 @@
                     "url": "https://opencollective.com/infyomlabs"
                 }
             ],
-            "time": "2022-09-15T12:00:57+00:00"
+            "time": "2022-09-17T06:34:26+00:00"
         },
         {
             "name": "infyomlabs/laravel-generator-helpers",
@@ -1926,16 +1926,16 @@
         },
         {
             "name": "league/flysystem",
-            "version": "3.3.0",
+            "version": "3.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "d8295793b3e2f91aa39e1feb2d5bfce772891ae2"
+                "reference": "5972d2a966e236674286e3a2281139ce74e4415d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/d8295793b3e2f91aa39e1feb2d5bfce772891ae2",
-                "reference": "d8295793b3e2f91aa39e1feb2d5bfce772891ae2",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/5972d2a966e236674286e3a2281139ce74e4415d",
+                "reference": "5972d2a966e236674286e3a2281139ce74e4415d",
                 "shasum": ""
             },
             "require": {
@@ -1997,7 +1997,7 @@
             ],
             "support": {
                 "issues": "https://github.com/thephpleague/flysystem/issues",
-                "source": "https://github.com/thephpleague/flysystem/tree/3.3.0"
+                "source": "https://github.com/thephpleague/flysystem/tree/3.4.0"
             },
             "funding": [
                 {
@@ -2013,7 +2013,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-09-09T11:11:42+00:00"
+            "time": "2022-09-16T20:57:23+00:00"
         },
         {
             "name": "league/mime-type-detection",
@@ -3536,16 +3536,16 @@
         },
         {
             "name": "skys215/mazer-templates",
-            "version": "v9.0.3",
+            "version": "v9.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/mazer-templates.git",
-                "reference": "380fd982ed287523995dc2f4e159c81435f3f6d2"
+                "reference": "7101df4c401466bcb1a91f4e8c6a8599dbdc112b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/mazer-templates/zipball/380fd982ed287523995dc2f4e159c81435f3f6d2",
-                "reference": "380fd982ed287523995dc2f4e159c81435f3f6d2",
+                "url": "https://api.github.com/repos/skys215/mazer-templates/zipball/7101df4c401466bcb1a91f4e8c6a8599dbdc112b",
+                "reference": "7101df4c401466bcb1a91f4e8c6a8599dbdc112b",
                 "shasum": ""
             },
             "require": {
@@ -3587,9 +3587,9 @@
             ],
             "support": {
                 "issues": "https://github.com/skys215/mazer-templates/issues",
-                "source": "https://github.com/skys215/mazer-templates/tree/v9.0.3"
+                "source": "https://github.com/skys215/mazer-templates/tree/v9.0.4"
             },
-            "time": "2022-09-01T09:57:22+00:00"
+            "time": "2022-09-17T08:16:09+00:00"
         },
         {
             "name": "skys215/ruanzhu",
