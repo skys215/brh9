@@ -1,0 +1,117 @@
+[
+    {
+        "name": "id",
+        "dbType": "increments",
+        "htmlType": "",
+        "validations": "",
+        "searchable": false,
+        "fillable": false,
+        "inForm": false,
+        "inIndex": true,
+        "primary": true
+    },
+    {
+        "name": "name",
+        "dbType": "string",
+        "htmlType": "text",
+        "validations": "",
+        "searchable": false,
+        "fillable": true,
+        "inForm": true,
+        "inIndex": true,
+        "primary": false,
+        "locales":{
+            "zh_CN":"名字"
+        }
+    },
+    {
+        "name": "location",
+        "dbType": "string",
+        "htmlType": "text",
+        "validations": "",
+        "searchable": false,
+        "fillable": true,
+        "inForm": true,
+        "inIndex": true,
+        "primary": false,
+        "locales":{
+            "zh_CN":"位置"
+        }
+    },
+    {
+        "name": "generated_power",
+        "dbType": "string",
+        "htmlType": "text",
+        "validations": "",
+        "searchable": false,
+        "fillable": true,
+        "inForm": true,
+        "inIndex": true,
+        "primary": false,
+        "locales":{
+            "zh_CN":"生成电量"
+        },
+        "factory": "numberBetween:980,1020|/:10|C"
+    },
+    {
+        "name": "used_power",
+        "dbType": "string",
+        "htmlType": "text",
+        "validations": "",
+        "searchable": false,
+        "fillable": true,
+        "inForm": true,
+        "inIndex": true,
+        "primary": false,
+        "locales":{
+            "zh_CN":"使用电量"
+        },
+        "factory": "now()"
+    },
+    {
+        "name": "capacity",
+        "dbType": "string",
+        "htmlType": "text",
+        "validations": "",
+        "searchable": false,
+        "fillable": true,
+        "inForm": true,
+        "inIndex": true,
+        "primary": false,
+        "locales":{
+            "zh_CN":"载荷"
+        },
+        "factory": "date:'YmdHis'|concat:'-方案1.docx'"
+    },
+    {
+        "name": "created_at",
+        "dbType": "timestamp",
+        "htmlType": "",
+        "validations": "",
+        "searchable": false,
+        "fillable": false,
+        "primary": false,
+        "inForm": true,
+        "inIndex": false,
+        "inView": true,
+        "locales":{
+            "zh_CN":"创建时间"
+        },
+        "factory": "'now'"
+    },
+    {
+        "name": "updated_at",
+        "dbType": "timestamp",
+        "htmlType": "",
+        "validations": "",
+        "searchable": false,
+        "fillable": false,
+        "primary": false,
+        "inForm": true,
+        "inIndex": false,
+        "inView": true,
+        "locales":{
+            "zh_CN":"修改时间"
+        }
+    }
+]
