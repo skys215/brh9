@@ -899,16 +899,16 @@
         },
         {
             "name": "infyomlabs/laravel-generator",
-            "version": "v5.3.11",
+            "version": "v5.3.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/laravel-generator-with-dusk.git",
-                "reference": "1918b42eb7c75be58ca6a67fc2797a4d87308240"
+                "reference": "98057735eb35f19ed7f429bb8758d9b539ce347d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/laravel-generator-with-dusk/zipball/1918b42eb7c75be58ca6a67fc2797a4d87308240",
-                "reference": "1918b42eb7c75be58ca6a67fc2797a4d87308240",
+                "url": "https://api.github.com/repos/skys215/laravel-generator-with-dusk/zipball/98057735eb35f19ed7f429bb8758d9b539ce347d",
+                "reference": "98057735eb35f19ed7f429bb8758d9b539ce347d",
                 "shasum": ""
             },
             "require": {
@@ -972,7 +972,7 @@
                 "view"
             ],
             "support": {
-                "source": "https://github.com/skys215/laravel-generator-with-dusk/tree/v5.3.11",
+                "source": "https://github.com/skys215/laravel-generator-with-dusk/tree/v5.3.12",
                 "issues": "https://github.com/skys215/laravel-generator-with-dusk/issues"
             },
             "funding": [
@@ -981,7 +981,7 @@
                     "url": "https://opencollective.com/infyomlabs"
                 }
             ],
-            "time": "2022-09-15T12:00:57+00:00"
+            "time": "2022-09-17T06:34:26+00:00"
         },
         {
             "name": "infyomlabs/laravel-generator-helpers",
@@ -1926,16 +1926,16 @@
         },
         {
             "name": "league/flysystem",
-            "version": "3.3.0",
+            "version": "3.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "d8295793b3e2f91aa39e1feb2d5bfce772891ae2"
+                "reference": "f14993c6e394450ac4649da35264df0544d0234e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/d8295793b3e2f91aa39e1feb2d5bfce772891ae2",
-                "reference": "d8295793b3e2f91aa39e1feb2d5bfce772891ae2",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/f14993c6e394450ac4649da35264df0544d0234e",
+                "reference": "f14993c6e394450ac4649da35264df0544d0234e",
                 "shasum": ""
             },
             "require": {
@@ -1997,7 +1997,7 @@
             ],
             "support": {
                 "issues": "https://github.com/thephpleague/flysystem/issues",
-                "source": "https://github.com/thephpleague/flysystem/tree/3.3.0"
+                "source": "https://github.com/thephpleague/flysystem/tree/3.5.1"
             },
             "funding": [
                 {
@@ -2013,7 +2013,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-09-09T11:11:42+00:00"
+            "time": "2022-09-18T18:23:19+00:00"
         },
         {
             "name": "league/mime-type-detection",
@@ -3475,16 +3475,16 @@
         },
         {
             "name": "skys215/laravel-ui-tabler",
-            "version": "v9.0.5",
+            "version": "v9.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skys215/laravel-ui-tabler.git",
-                "reference": "fbf37e79f47fbe95400b6c8b7b27a1674d9d7e32"
+                "reference": "d8202d568b672429ea354be70066998f9e811ff2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skys215/laravel-ui-tabler/zipball/fbf37e79f47fbe95400b6c8b7b27a1674d9d7e32",
-                "reference": "fbf37e79f47fbe95400b6c8b7b27a1674d9d7e32",
+                "url": "https://api.github.com/repos/skys215/laravel-ui-tabler/zipball/d8202d568b672429ea354be70066998f9e811ff2",
+                "reference": "d8202d568b672429ea354be70066998f9e811ff2",
                 "shasum": ""
             },
             "require": {
@@ -3524,7 +3524,7 @@
             ],
             "support": {
                 "issues": "https://github.com/skys215/laravel-ui-tabler/issues",
-                "source": "https://github.com/skys215/laravel-ui-tabler/tree/v9.0.5"
+                "source": "https://github.com/skys215/laravel-ui-tabler/tree/v9.0.6"
             },
             "funding": [
                 {
@@ -3532,7 +3532,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2022-09-12T04:20:15+00:00"
+            "time": "2022-09-19T02:21:37+00:00"
         },
         {
             "name": "skys215/ruanzhu",
